@@ -1,0 +1,24 @@
+.conteiner {
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    background-color: aqua;
+    margin: 20px auto;
+}
+
+.borderStrip {
+    border: 2px dashed red;
+}
+
+.borderDotted {
+    border: 2px dotted red;
+    background-color: yellow;
+}
+
+.borderBold {
+    border: 20px inset blue;
+}
+
+.borderRight {
+    border-left: 10px solid black;
+}
